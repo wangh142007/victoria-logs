@@ -1,1 +1,1 @@
-From liangjw/kube-webhook-certgen:v1.0
+From grafana/grafana:8.1.5
