@@ -1,1 +1,1 @@
-From grafana/grafana:8.1.5
+From tdengine/tdengine:2.6.0.34
