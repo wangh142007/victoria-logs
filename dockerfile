@@ -1,1 +1,1 @@
-From tdengine/tdengine:2.6.0.34
+From ghcr.io/apache/flink-kubernetes-operator:51eeae1
