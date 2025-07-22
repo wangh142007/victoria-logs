@@ -1,1 +1,1 @@
-From docker.io/library/emqx:4.3.12
+From docker.io/library/emqx:4.3
