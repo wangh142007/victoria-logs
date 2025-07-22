@@ -1,1 +1,1 @@
-From ghcr.io/apache/flink-kubernetes-operator:51eeae1
+From docker.io/library/emqx:4.3.12
