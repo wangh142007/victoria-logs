@@ -1,1 +1,1 @@
-From docker.io/library/emqx:4.3
+From flink:1.18.0-java8
