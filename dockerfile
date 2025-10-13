@@ -1,1 +1,1 @@
-From flink:1.18.0-java8
+From ghcr.io/apache/flink-kubernetes-operator:b40c553
