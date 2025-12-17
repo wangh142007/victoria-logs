@@ -1,1 +1,1 @@
-From ghcr.io/apache/flink-kubernetes-operator:b40c553
+From ubuntu:16.04-openssl
